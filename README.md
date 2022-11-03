@@ -175,6 +175,10 @@ We trained and evaluated T5 and BART models.
 
 If you have troubles, suggestions, or ideas, the [Discussion](https://github.com/disi-unibo-nlp/bio-ee-egv/discussions) board might have some relevant information. If not, you can post your questions there 💬🗨.
 
+## License
+
+This project is released under the CC-BY-NC-SA 4.0 license (see `LICENSE`). If you use our code and/or data, please cite our paper.
+
 ## Citation
 
 If you use the reported code, datasets, or models in your research, please cite:
