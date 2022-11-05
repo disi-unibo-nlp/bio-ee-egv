@@ -177,7 +177,7 @@ If you have troubles, suggestions, or ideas, the [Discussion](https://github.com
 
 ## License
 
-This project is released under the CC-BY-NC-SA 4.0 license (see `LICENSE`). If you use our code and/or data, please cite our paper.
+This project is released under the CC-BY-NC-SA 4.0 license (see `LICENSE`).
 
 ## Citation
 
